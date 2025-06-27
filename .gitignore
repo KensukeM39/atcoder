@@ -1,0 +1,46 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# C/C++ compiled files and executables
+*.o
+*.a
+*.out
+*.exe
+*.obj
+*.lib
+*.dll
+
+# Java compiled files
+*.class
+
+# Node.js
+node_modules/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Editor backup files
+*~
+*.bak
+*.swp
+.DS_Store # macOS
+
+# Custom test input/output files
+# If you have specific files like `input.txt` or `output.txt`
+# that you use for local testing, you might want to ignore them.
+# For example:
+# input.txt
+# output.txt
+# my_test_case.txt
+
+# Virtual environment (Python)
+.venv/
+env/
+venv/
